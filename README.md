@@ -15,5 +15,5 @@ Le projet utilise les librairies suivantes:
 - [CV2](https://opencv.org/)
 - [Matplotlib](https://matplotlib.org/)
 
-![Exemple1](https://github.com/Kibahor/image_upscale_ia/blob/main/essaie/essaie%20n2/4.png)
-![Exemple2](https://github.com/Kibahor/image_upscale_ia/blob/main/essaie/essaie%20n2/3.png)
+![Exemple1](https://github.com/Kibahor/image_upscale_ia/blob/main/essaie/essaie%20n2/4.png "Exemple n°1")
+![Exemple2](https://github.com/Kibahor/image_upscale_ia/blob/main/essaie/essaie%20n2/3.png "Exemple n°2")
